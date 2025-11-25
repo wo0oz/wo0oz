@@ -8,6 +8,6 @@
 - 🎨 예쁜 UI/UX, SCSS 커스텀 디자인 좋아함
 - 🐈‍⬛ 좋아하는 캐릭터: 바쿠고..
 
-- 🔧 Tech Stack
+🔧 Tech Stack
 - 🚀 AI / Machine Learning
 - 🎨 Frontend
